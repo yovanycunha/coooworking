@@ -18,5 +18,7 @@ permite a chance de gerenciar workplaces e suas características
 - [React](https://pt-br.reactjs.org/)
 - [Node.js](https://nodejs.org/en/)
 
+### Autor
+Desenvolvido por Yovany Cunha. Entre em contato! 👋🏽 
 
 
