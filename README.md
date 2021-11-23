@@ -1,8 +1,10 @@
 Repositório destinado ao projeto da disciplina Princípios de Desenvolvimento Web.
 
-![Coooworking](https://img.shields.io/endpoint.svg?url=https://cooow-badge-2xh9puofe6x0.runkit.sh/) [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs) ![GitHub issues](https://img.shields.io/github/issues-raw/yovanycunha/coooworking?style=plastic)
+![Coooworking](https://img.shields.io/endpoint.svg?url=https://cooow-badge-2xh9puofe6x0.runkit.sh/)
 
-[asd]: (./banner.svg)
+[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs) ![GitHub issues](https://img.shields.io/github/issues-raw/yovanycunha/coooworking?style=plastic)
+
+[asd]: (banner.svg)
 # Coooworking
 
 O Coooworking é uma plataforma para o gerencialmento de coworking, permitindo ao usuário
