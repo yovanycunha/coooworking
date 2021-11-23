@@ -1,0 +1,20 @@
+.header {
+
+}
+
+.container {
+  display: flex;
+  padding: 17px;
+
+}
+
+.workplaceContainer {
+  display: flex;
+  padding: 13px;
+}
+
+.wokplaceCard {
+  padding: 13px;
+  border: solid 2px;
+  border-radius: 4px;
+}

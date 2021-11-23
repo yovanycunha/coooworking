@@ -5,7 +5,7 @@ Repositório destinado ao projeto da disciplina Princípios de Desenvolvimento W
 [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs) ![GitHub issues](https://img.shields.io/github/issues/yovanycunha/coooworking)
 
 # Coooworking
-<img src="./banner.svg" width="100%"/>
+<img src="./public/images/banner.svg" width="100%"/>
 
 O Coooworking é uma plataforma para o gerencialmento de coworking, permitindo ao usuário
 a possibilidade de reservar ou se juntar a um workplace previamente criado e ao gestor
@@ -18,7 +18,7 @@ permite a chance de gerenciar workplaces e suas características
 - [React](https://pt-br.reactjs.org/)
 - [Node.js](https://nodejs.org/en/)
 
-### Autor
+## Autor
 Desenvolvido por Yovany Cunha. Entre em contato! 👋🏽
 
 [![Twitter](https://badgen.net/badge/icon/twitter?icon=twitter&label)](https://twitter.com/yovanycunha)
