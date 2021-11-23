@@ -5,4 +5,4 @@ Repositório destinado ao projeto da disciplina Princípios de Desenvolvimento W
 
 <h1>Teste</h1>
 
-<img src="./Coooworking.gif" width="400"/>
+<img src="./Coooworking.png" width="100%"/>
