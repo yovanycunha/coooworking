@@ -20,5 +20,6 @@ permite a chance de gerenciar workplaces e suas características
 
 ### Autor
 Desenvolvido por Yovany Cunha. Entre em contato! 👋🏽 
-[![Twitter Badge](https://img.shields.io/badge/-@yovanycunha-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/yovanycunha)]
+[![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40cloudposse)](https://twitter.com/cloudposse)
+
 
