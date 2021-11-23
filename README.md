@@ -21,4 +21,4 @@ permite a chance de gerenciar workplaces e suas características
 ### Autor
 Desenvolvido por Yovany Cunha. Entre em contato! 👋🏽 
 [![Twitter](https://badgen.net/badge/icon/twitter?icon=twitter&label)](https://twitter.com/yovanycunha)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yovanycunha/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yovanycunha/)
