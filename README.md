@@ -1,5 +1,3 @@
-Repositório destinado ao projeto da disciplina Princípios de Desenvolvimento Web.
-
 ![Coooworking](https://img.shields.io/endpoint.svg?url=https://cooow-badge-2xh9puofe6x0.runkit.sh/)
 
 [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs) ![GitHub issues](https://img.shields.io/github/issues/yovanycunha/coooworking)

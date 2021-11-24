@@ -1,0 +1,80 @@
+.header {
+
+}
+
+.container {
+  display: flex;
+  padding: 17px;
+
+}
+
+.workplaceContainer {
+  display: flex;
+  padding: 13px;
+}
+
+.wokplaceCard {
+  padding: 13px;
+  border: solid 2px;
+  max-width: 400px;
+  border-radius: 4px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.workplaceName {
+  font-weight: 500;
+  font-size: 2.4rem;
+  line-height: 3.6rem;
+  color: #000;
+
+  margin: 7px 0;
+}
+
+.workplaceImg {
+  object-fit: cover;
+  max-height: 250px;
+}
+
+.divider {
+  height: 1px;
+  width: 100%;
+  background: #b9b9b9;
+  margin-bottom: 7px;
+}
+
+.workplaceDescription {
+  margin-bottom: 7px;
+}
+
+.workplaceItens {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  margin-bottom: 12px;
+}
+
+.workplaceItem {
+  color: #000;
+}
+
+.btnContainer {
+  display: flex;
+}
+
+.btn {
+  width: auto;
+  border: none;
+  background-color: transparent;
+  font-size: 1.8rem;
+  line-height: 2.7rem;
+  font-weight: 500;
+  cursor: pointer;
+}
+
+.btnLink {
+  text-decoration: none;
+  color: #000;
+}
