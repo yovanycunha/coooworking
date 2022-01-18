@@ -1,4 +1,3 @@
-const withOptimizedImages = require('next-optimized-images');
 const withFonts = require('nextjs-fonts');
 const withImages = require('next-images');
 
@@ -8,7 +7,7 @@ module.exports = withImages(
   withFonts({
     sassOptions: {
       cssModules: true,
-      includePaths: [path.join(__dirname, 'src')],
+      includePaths: ['./src'],
     },
     images: {
       disableStaticImages: true

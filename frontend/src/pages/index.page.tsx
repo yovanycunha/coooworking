@@ -2,7 +2,7 @@ import Image from 'next/image'
 
 import style from './Home/Home.module.scss';
 
-import imageSrc from './Home/images/cowork01.jpg'
+import imageSrc from './Home/images/cowork01.jpg';
 
 function Home() {
   return (
@@ -10,7 +10,7 @@ function Home() {
       <div>
         <Image
           src={imageSrc}
-          width={150}
+          width={250}
           height={150}
         />
       </div>
