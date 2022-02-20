@@ -1,4 +1,4 @@
-import '~styles/index.scss';
+import '@styles/index.scss';
 
 // TODO: Tipagem da prop
 function App({ Component, pageProps }: any) {

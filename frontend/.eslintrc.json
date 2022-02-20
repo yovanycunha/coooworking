@@ -152,6 +152,9 @@
   "settings": {
     "import/resolver": {
       "typescript": {}
+      // "webpack": {
+      //   "config"
+      // }
     }
   }
 }

@@ -1,5 +1,5 @@
-const withFonts = require('nextjs-fonts');
 const withImages = require('next-images');
+const withFonts = require('nextjs-fonts');
 
 const path = require('path');
 
@@ -10,7 +10,7 @@ module.exports = withImages(
       includePaths: ['./src'],
     },
     images: {
-      disableStaticImages: true
+      disableStaticImages: true,
     },
     pageExtensions: ['page.tsx'],
     fileExtensions: ['jpg', 'jpeg', 'png', 'webp'],
@@ -18,6 +18,7 @@ module.exports = withImages(
       config.module.rules.push({
         test: /\.svg$/,
         use: ['@svgr/webpack'],
+        sideEffects: false,
       });
 
       return config;

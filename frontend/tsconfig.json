@@ -30,7 +30,7 @@
       "~components/*": [
         "src/components/*"
       ],
-      "~styles/*": [
+      "@styles/*": [
         "src/styles/*"
       ],
       "~public/*": [
